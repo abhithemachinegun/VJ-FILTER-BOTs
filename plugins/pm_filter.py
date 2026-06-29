@@ -1537,9 +1537,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             buttons = [
                 [
                     InlineKeyboardButton('Rᴇsᴜʟᴛ Pᴀɢᴇ',
-                                         callback_data=f'setgs#button#{settings["button"]}#{str(grp_id)}'),
-                    InlineKeyboardButton('Bᴜᴛᴛᴏɴ' if settings["button"] else 'Tᴇxᴛ',
-                                         callback_data=f'setgs#button#{settings["button"]}#{str(grp_id)}')
+                                         callback_data=f'setgs#text#{settings["text"]}#{str(grp_id)}'),
+                    InlineKeyboardButton('Bᴜᴛᴛᴏɴ' if settings["text"] else 'Button',
+                                         callback_data=f'setgs#text#{settings["text"]}#{str(grp_id)}')
                 ],
                 [
                     InlineKeyboardButton('Pʀᴏᴛᴇᴄᴛ Cᴏɴᴛᴇɴᴛ',
@@ -1619,9 +1619,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             buttons = [
                 [
                     InlineKeyboardButton('Rᴇsᴜʟᴛ Pᴀɢᴇ',
-                                         callback_data=f'setgs#button#{settings["button"]}#{str(grp_id)}'),
-                    InlineKeyboardButton('Bᴜᴛᴛᴏɴ' if settings["button"] else 'Tᴇxᴛ',
-                                         callback_data=f'setgs#button#{settings["button"]}#{str(grp_id)}')
+                                         callback_data=f'setgs#text#{settings["text"]}#{str(grp_id)}'),
+                    InlineKeyboardButton('Bᴜᴛᴛᴏɴ' if settings["text"] else 'Button',
+                                         callback_data=f'setgs#text#{settings["text"]}#{str(grp_id)}')
                 ],
                 [
                     InlineKeyboardButton('Pʀᴏᴛᴇᴄᴛ Cᴏɴᴛᴇɴᴛ',
