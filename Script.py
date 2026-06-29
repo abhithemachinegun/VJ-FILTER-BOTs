@@ -244,9 +244,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
-
-<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
+    CAPTION = """<b><a href="https://t.me/atozmoviesflix">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/atozmoviesflix">[ A to Z Movies Flix ]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
