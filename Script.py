@@ -244,7 +244,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href="https://t.me/atozmoviesflix">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/atozmoviesflix">[ A to Z Movies Flix ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/atozmoviesflix"> @atozmoviesflix 📂 {file_name}</a></b>\n\n<b>🔇 Fix Sound Problem: <a href="https://telegra.ph/How-To-Fix-Sound-Issue-01-14">[ Click Here ]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
