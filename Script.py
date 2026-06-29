@@ -244,7 +244,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : @atozmoviesflix {file_name}
+"""<b>📂 ғɪʟᴇɴᴀᴍᴇ : @atozmoviesflix {file_name}
 
 <b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
 
