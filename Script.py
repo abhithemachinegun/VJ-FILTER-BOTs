@@ -244,7 +244,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href="https://t.me/atozmoviesflix"> @atozmoviesflix 📂 {file_name}</a></b>\n\n ( इस 𝙈𝙤𝙫𝙞𝙚 को अपने दोस्त को 𝙎𝙝𝙖𝙧𝙚 करे अगर आपका दोस्त इस 𝙈𝙤𝙫𝙞𝙚 को 𝘿𝙤𝙬𝙣𝙡𝙤𝙖𝙙 कर लेगा तो आपको 1 𝙈𝙤𝙣𝙩𝙝 का 𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣 𝙁𝙧𝙚𝙚 मे मिलेगा ) \n\n<b>🔇 Fix Sound Problem: <a href="https://telegra.ph/How-To-Fix-Sound-Issue-01-14">[ Click Here ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/atozmoviesflix"> 📂 {file_name}</a></b>\n\n ( इस 𝙈𝙤𝙫𝙞𝙚 को अपने दोस्त को 𝙎𝙝𝙖𝙧𝙚 करे अगर आपका दोस्त इस 𝙈𝙤𝙫𝙞𝙚 को 𝘿𝙤𝙬𝙣𝙡𝙤𝙖𝙙 कर लेगा तो आपको 1 𝙈𝙤𝙣𝙩𝙝 का 𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣 𝙁𝙧𝙚𝙚 मे मिलेगा ) \n\n<b>🔇 Fix Sound Problem: <a href="https://telegra.ph/How-To-Fix-Sound-Issue-01-14">[ Click Here ]</a></b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
